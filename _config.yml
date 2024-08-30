@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Profile_pic2.jpg"
   name             : "Abedennour (Hakim) Dib"
-  pronouns         : # example: "she/her"  
+  pronouns         :  "he/him"  
   bio              : "I'm a PhD student in Theoretical and Mathematical Physics mainly interested in Extended theories of Electrodynamics, gravitation and field theory in general."
   location         : "Orléans, France"
   employer         : "CNRS- LPC2E"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
