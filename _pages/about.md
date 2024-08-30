@@ -12,7 +12,7 @@ Welcome to my website. I am blabla bla bla
 # Research interests 
 
 ## Other hobbies
-![illustration](image-alignement-1200x4002.jpg)
+(images/foo-bar-identity.jpg)
 
 For more info
 ------
