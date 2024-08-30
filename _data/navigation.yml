@@ -6,8 +6,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
+    #url: /publications/
+    url: "https://inspirehep.net/authors/2732646"
   - title: "Talks"
     url: /talks/    
 
