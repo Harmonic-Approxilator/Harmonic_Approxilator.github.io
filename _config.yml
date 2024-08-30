@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Abedennour Hakim Dib"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Abedennour Dib"
-description              : &description "personal description"
+description              : &description "PhD student in Theoretical and Mathematical Physics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio-photo-2.jpg"
+  name             : "Abedennour (Hakim) Dib"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I'm a PhD student in Theoretical and Mathematical Physics mainly interested in Extended theories of Electrodynamics, gravitation and field theory in general."
+  location         : "Orléans, France"
+  employer         : "Université d'Orléans/ CNRS- LPC2E"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mes couilles au bord de l'eau ça fait un bungalow" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
