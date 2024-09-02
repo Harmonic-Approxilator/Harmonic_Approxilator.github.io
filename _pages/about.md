@@ -13,7 +13,7 @@ My name is Hakim and I'm a PhD student in Theoretical and Mathematical Physics a
 
 # Research interests  
 
-I am currently working on Non-Maxwellian (or extended) theories of electrodynamics, which includes non-linear extensions, Lorentz Symmetry (LoSy) violations as well as other inhomogeneous additions to electrodynamics. ![pic](/images/Maxwell.jpg){: .align-right width="300"px}
+I am currently working on Non-Maxwellian (or extended) theories of electrodynamics, which includes non-linear extensions, Lorentz Symmetry (LoSy) violations as well as other inhomogeneous additions to electrodynamics. ![pic](){: width="300"px}
 
 The main focus of my thesis is to see whether certain extensions of electrodynamics could give rise to new observable phenomena at astrophysical and cosmological scales, notably massive models. 
 
