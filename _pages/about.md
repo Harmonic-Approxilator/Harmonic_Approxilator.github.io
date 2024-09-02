@@ -8,6 +8,7 @@ redirect_from:
 ---
 # About me 
 My name is Hakim and I'm a PhD student in Theoretical and Mathematical Physics at the university of Orléans under the supervision of Alessandro Spallicci. I originally did my masters degree in Mathematical Physics in my hometown of Oran (Algeria). 
+![pic](images/Oran.jpg)
 
 
 # Research interests 
@@ -20,6 +21,6 @@ I'm also extremely interested in topics of General Relativity, Classical and Qua
 
 ## Other hobbies
 In my free time, I like to read comics play video game and enjoy good coffee. I also have been practicing Muay thai for some years right now semi regularly. 
-![pic](images/foo-bar-identity.jpg){}
+![pic](images/foo-bar-identity.jpg)
 
 ------
