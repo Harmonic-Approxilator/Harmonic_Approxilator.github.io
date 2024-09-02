@@ -25,6 +25,7 @@ I'm also extremely interested in topics of General Relativity, Classical and Qua
 
 ## Other hobbies
 In my free time, I like to read comics play video game and enjoy good coffee. I also have been practicing Muay thai for some years now semi regularly. 
+
 ![pic](images/Oran.jpg)
 
 ------
