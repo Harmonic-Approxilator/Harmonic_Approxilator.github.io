@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Theoretical and Mathematical Physics, University of Orleans, 2026 (expected)
 * M.Sc in Theoretical and Mathematical Physics, University of Oran 1 Ahmed Benbella, 2021
-*Bachelor degree in Radiation Physics, Université of Sciences and Technology of Oran
+* Bachelor degree in Radiation Physics, Université of Sciences and Technology of Oran
 Mohamed Boudiaf Physics faculty (USTO), 2019
 
 Work experience
@@ -21,8 +21,9 @@ Work experience
 * 2024-current: Teaching assistant
   * University of Orleans
   * Responsible for exercice classes (Travaux dirigés) in Thermodynamics for first year undergrad. In the second semester of 2024 also taught a laser physics lab for first year master students (ICMS).
-  * Supervisor: * Thermodynamics : Prof. Y Vaills.
-                * Laser physics labs : Prof. T Tillocher.
+  * Supervisor:
+    * Thermodynamics : Prof. Y Vaills.
+    * Laser physics lab : Prof. T Tillocher.
 
 * 2023-2026: Doctoral researcher
   * CNRS- Laboratoire de la Physique et Chimie de l'Environement et de l'Espace (LPC2E)
@@ -57,6 +58,7 @@ Skills
   * Python
   * C, C++
   * Git
+  * Mathematica
 * Scientific writing
   
 Publications and Talks
@@ -64,12 +66,22 @@ Publications and Talks
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Languages
+======
+  * French :
+    * Native speaker
+  * English :
+    * Bilingual
+  * Arabic :
+    * Bilingual
+  * Italian :
+    * Basic
   
-  
-  
-Service and leadership
+Personal projects
 ======
 * Organised for 5 years the Manga days in Oran, and led the non lucrative association responsible for it for two years.
 * Organised various caritative actions with the same association.
 * Regularly partakes in outreach events to younger audiences.
+* Moderator on a scientific forum for Theoretical physics.
   
