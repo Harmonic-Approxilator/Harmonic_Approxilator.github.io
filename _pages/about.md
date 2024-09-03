@@ -23,7 +23,7 @@ The secondary direction of my work is to see how massive polarisations could ari
 The question of mass and its definition is a topic I find really interesting and it brings me to deal with gravitation and certain aspects of group theory.
 To a broader extent I am also interested in understanding at a more fundamental level what is electrodynamics, and what is ( and isn't) permitted when trying to extend it formally.
 
-I'm also extremely interested in topics of General Relativity, Classical and Quantum Field Theory, as well as some topics in mathematical physics and mathematics.
+I'm also extremely interested in General Relativity, Classical and Quantum Field Theory, as well as some topics in mathematical physics and mathematics.
 
 ## Other hobbies
 In my free time, I like to read comics play video game and enjoy good coffee. I also have been practicing Muay thai for some years now semi regularly. 
