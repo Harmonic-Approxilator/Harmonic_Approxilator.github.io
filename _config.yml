@@ -12,8 +12,8 @@ title                    : "Abedennour Dib"
 title_separator          : "-"
 name                     : &name "Abedennour Dib"
 description              : &description "PhD student in Theoretical and Mathematical Physics"
-url                      : https://harmonic-approxilator.github.io/Harmonic_Approxilator.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "harmonicapproxilator.com" # the subpath of your site, e.g. "/blog"
+url                      : harmonicapproxilator.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
