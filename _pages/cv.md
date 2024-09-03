@@ -11,54 +11,65 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical and Mathematical Physics, University of Orleans, 2026 (expected)
+* M.Sc in Theoretical and Mathematical Physics, University of Oran 1 Ahmed Benbella, 2021
+*Bachelor degree in Radiation Physics, Université of Sciences and Technology of Oran
+Mohamed Boudiaf Physics faculty (USTO), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-current: Teaching assistant
+  * University of Orleans
+  * Responsible for exercice classes (Travaux dirigés) in Thermodynamics for first year undergrad. In the second semester of 2024 also taught a laser physics lab for first year master students (ICMS).
+  * Supervisor: * Thermodynamics : Prof. Y Vaills.
+                * Laser physics labs : Prof. T Tillocher.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2026: Doctoral researcher
+  * CNRS- Laboratoire de la Physique et Chimie de l'Environement et de l'Espace (LPC2E)
+  * PhD thesis, continuing the work on extended theories of electromagnetism.
+  * Supervisor : Prof. A. Spallicci.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Independent researcher
+  * Self employed
+  * Joined independently a research program on extended theories of electrodynamics to acquire more experience.
+  * Collaborators : Prof. A. Spallicci, Prof. J. Helayël-Neto, Prof. N. Djeghloul.
+  
+* 2021: Assistant researcher
+  * University of Oran, LPTO
+  * Master thesis, consisted of an introduction to canonical quantum cosmology and problems in canonical quantisation methods for gravitations.
+  * Supervisor : Prof. A. Meziane
+
+* 2021-2023 : Freelance tutor in Physics and Mathematics
+  * Self employed
+  * Taught mathematics and physics to high school and undergraduate students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Pedagogy
+* Mathematical modelling
+  * Differential geometry
+  * Algebra and group theory
+  * Real, complex and Fourrier analysis
+* Modern methods in physics
+  * Classical and quantum field theory
+  * General relativity
+* Programming
+  * Python
+  * C, C++
+  * Git
+* Scientific writing
+  
+Publications and Talks
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organised for 5 years the Manga days in Oran, and led the non lucrative association responsible for it for two years.
+* Organised various caritative actions with the same association.
+* Regularly partakes in outreach events to younger audiences.
+  
